@@ -30,3 +30,5 @@ _bench
 *.tmp
 *.swp
 .DS_Store
+
+DESIGN.md
